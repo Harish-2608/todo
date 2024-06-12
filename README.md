@@ -15,7 +15,7 @@ This is a simple ToDo app built using Python. It provides a straightforward inte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo.git
+   git clone https://github.com/Harish-2608/todo.git
    ```
 
 2. Run the application:
